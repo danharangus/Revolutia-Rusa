@@ -1,0 +1,193 @@
+E:\Harangus Dan\C#\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.exe.config
+E:\Harangus Dan\C#\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.exe
+E:\Harangus Dan\C#\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.pdb
+E:\Harangus Dan\C#\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.Properties.Resources.resources
+E:\Harangus Dan\C#\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.csproj.GenerateResource.Cache
+E:\Harangus Dan\C#\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.exe
+E:\Harangus Dan\C#\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.pdb
+E:\Harangus Dan\C#\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLectii.resources
+E:\Harangus Dan\C#\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.mainFrm.resources
+L:\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.exe.config
+L:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.exe
+L:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.pdb
+L:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLectii.resources
+L:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.Properties.Resources.resources
+L:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.csproj.GenerateResource.Cache
+L:\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.exe
+L:\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.pdb
+L:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmTest.resources
+K:\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.exe.config
+K:\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.exe
+K:\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.pdb
+K:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLectii.resources
+K:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmTest.resources
+K:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.Properties.Resources.resources
+K:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.csproj.GenerateResource.Cache
+K:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.csproj.CoreCompileInputs.cache
+K:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.exe
+K:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.pdb
+K:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmMain.resources
+L:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmMain.resources
+L:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLogin.resources
+L:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmPersonalitati.resources
+K:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLogin.resources
+F:\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.exe.config
+F:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.exe
+F:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.pdb
+F:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLectii.resources
+F:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLogin.resources
+F:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmPersonalitati.resources
+F:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmTest.resources
+F:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmMain.resources
+F:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.Properties.Resources.resources
+F:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.csproj.GenerateResource.Cache
+F:\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.exe
+F:\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.pdb
+L:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLectiiPers.resources
+F:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLectiiPers.resources
+F:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.csprojResolveAssemblyReference.cache
+L:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmGalerie.resources
+L:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmPersonalitatiInstructiuni.resources
+K:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmGalerie.resources
+K:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLectiiPers.resources
+K:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.csprojResolveAssemblyReference.cache
+K:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmImaginiInstructiuni.resources
+K:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmJocImagini.resources
+D:\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.exe.config
+D:\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.exe
+D:\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.pdb
+D:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.csprojAssemblyReference.cache
+D:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmGalerie.resources
+D:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmImaginiInstructiuni.resources
+D:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLectii.resources
+D:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLectiiPers.resources
+D:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLogin.resources
+D:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmJocImagini.resources
+D:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmTest.resources
+D:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmMain.resources
+D:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.Properties.Resources.resources
+D:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.csproj.GenerateResource.cache
+D:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.csproj.CoreCompileInputs.cache
+D:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.exe
+D:\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.pdb
+E:\Tarta Antonia\REV R\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.exe.config
+E:\Tarta Antonia\REV R\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.exe
+E:\Tarta Antonia\REV R\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.pdb
+E:\Tarta Antonia\REV R\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.csprojResolveAssemblyReference.cache
+E:\Tarta Antonia\REV R\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmGalerie.resources
+E:\Tarta Antonia\REV R\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmImaginiInstructiuni.resources
+E:\Tarta Antonia\REV R\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLectii.resources
+E:\Tarta Antonia\REV R\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLectiiPers.resources
+E:\Tarta Antonia\REV R\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLogin.resources
+E:\Tarta Antonia\REV R\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmJocImagini.resources
+E:\Tarta Antonia\REV R\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmTest.resources
+E:\Tarta Antonia\REV R\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmMain.resources
+E:\Tarta Antonia\REV R\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.Properties.Resources.resources
+E:\Tarta Antonia\REV R\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.csproj.GenerateResource.Cache
+E:\Tarta Antonia\REV R\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.exe
+E:\Tarta Antonia\REV R\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.pdb
+E:\Andrei C#\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.exe.config
+E:\Andrei C#\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.exe
+E:\Andrei C#\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.pdb
+E:\Andrei C#\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmGalerie.resources
+E:\Andrei C#\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmImaginiInstructiuni.resources
+E:\Andrei C#\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLectii.resources
+E:\Andrei C#\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLectiiPers.resources
+E:\Andrei C#\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLogin.resources
+E:\Andrei C#\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmJocImagini.resources
+E:\Andrei C#\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmTest.resources
+E:\Andrei C#\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmMain.resources
+E:\Andrei C#\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.Properties.Resources.resources
+E:\Andrei C#\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.csproj.GenerateResource.Cache
+E:\Andrei C#\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.exe
+E:\Andrei C#\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.pdb
+E:\Andrei C#\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.csprojResolveAssemblyReference.cache
+E:\Andrei C#\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.FrmFebruarie.resources
+E:\Andrei C#\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.FrmOctombrie.resources
+E:\Andrei C#\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.FrmIulie.resources
+C:\Users\User\Desktop\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.exe.config
+C:\Users\User\Desktop\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.exe
+C:\Users\User\Desktop\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.pdb
+C:\Users\User\Desktop\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.FrmFebruarie.resources
+C:\Users\User\Desktop\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmGalerie.resources
+C:\Users\User\Desktop\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.FrmIulie.resources
+C:\Users\User\Desktop\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmImaginiInstructiuni.resources
+C:\Users\User\Desktop\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLectii.resources
+C:\Users\User\Desktop\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLectiiPers.resources
+C:\Users\User\Desktop\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLogin.resources
+C:\Users\User\Desktop\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmJocImagini.resources
+C:\Users\User\Desktop\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.FrmOctombrie.resources
+C:\Users\User\Desktop\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmTest.resources
+C:\Users\User\Desktop\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmMain.resources
+C:\Users\User\Desktop\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.Properties.Resources.resources
+C:\Users\User\Desktop\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.exe
+C:\Users\User\Desktop\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.pdb
+C:\Users\User\Desktop\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmBibliografie.resources
+C:\Users\use\Desktop\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.exe.config
+C:\Users\use\Desktop\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.exe
+C:\Users\use\Desktop\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.pdb
+C:\Users\use\Desktop\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.csprojResolveAssemblyReference.cache
+C:\Users\use\Desktop\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmBackground.resources
+C:\Users\use\Desktop\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmBibliografie.resources
+C:\Users\use\Desktop\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.FrmFebruarie.resources
+C:\Users\use\Desktop\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmGalerie.resources
+C:\Users\use\Desktop\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.FrmIulie.resources
+C:\Users\use\Desktop\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmImaginiInstructiuni.resources
+C:\Users\use\Desktop\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLectii.resources
+C:\Users\use\Desktop\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLectiiPers.resources
+C:\Users\use\Desktop\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLogin.resources
+C:\Users\use\Desktop\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmJocImagini.resources
+C:\Users\use\Desktop\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.FrmOctombrie.resources
+C:\Users\use\Desktop\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmTest.resources
+C:\Users\use\Desktop\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmMain.resources
+C:\Users\use\Desktop\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.Properties.Resources.resources
+C:\Users\use\Desktop\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.csproj.GenerateResource.Cache
+C:\Users\use\Desktop\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.csproj.CoreCompileInputs.cache
+C:\Users\use\Desktop\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.exe
+C:\Users\use\Desktop\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.pdb
+L:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.exe.config
+L:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.exe
+L:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.pdb
+L:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.exe
+L:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.pdb
+L:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.csprojResolveAssemblyReference.cache
+L:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmBackground.resources
+L:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmBibliografie.resources
+L:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.FrmFebruarie.resources
+L:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmGalerie.resources
+L:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.FrmIulie.resources
+L:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmImaginiInstructiuni.resources
+L:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLectii.resources
+L:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLectiiPers.resources
+L:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLogin.resources
+L:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmJocImagini.resources
+L:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.FrmOctombrie.resources
+L:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmTest.resources
+L:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmMain.resources
+L:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.Properties.Resources.resources
+L:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.csproj.GenerateResource.Cache
+K:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.exe.config
+K:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.exe
+K:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\bin\Debug\Revolutia Rusa.pdb
+K:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.csprojResolveAssemblyReference.cache
+K:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmBackground.resources
+K:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmBibliografie.resources
+K:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.FrmFebruarie.resources
+K:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmGalerie.resources
+K:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.FrmIulie.resources
+K:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmImaginiInstructiuni.resources
+K:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLectii.resources
+K:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLectiiPers.resources
+K:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmLogin.resources
+K:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmJocImagini.resources
+K:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.FrmOctombrie.resources
+K:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmTest.resources
+K:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.frmMain.resources
+K:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia_Rusa.Properties.Resources.resources
+K:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.csproj.GenerateResource.Cache
+K:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.csproj.CoreCompileInputs.cache
+K:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.exe
+K:\RR - final\Revolutia Rusa\Revolutia Rusa\Revolutia Rusa\obj\Debug\Revolutia Rusa.pdb

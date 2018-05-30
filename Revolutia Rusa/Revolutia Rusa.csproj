@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{142F0BAC-E009-46AE-B971-95059F676FE2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Revolutia_Rusa</RootNamespace>
+    <AssemblyName>Revolutia Rusa</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmBackground.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBackground.Designer.cs">
+      <DependentUpon>frmBackground.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBibliografie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBibliografie.Designer.cs">
+      <DependentUpon>frmBibliografie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFebruarie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFebruarie.Designer.cs">
+      <DependentUpon>FrmFebruarie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGalerie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGalerie.Designer.cs">
+      <DependentUpon>frmGalerie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIulie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIulie.Designer.cs">
+      <DependentUpon>FrmIulie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmImaginiInstructiuni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmImaginiInstructiuni.Designer.cs">
+      <DependentUpon>frmImaginiInstructiuni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLectii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLectii.Designer.cs">
+      <DependentUpon>frmLectii.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLectiiPers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLectiiPers.Designer.cs">
+      <DependentUpon>frmLectiiPers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmJocImagini.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmJocImagini.Designer.cs">
+      <DependentUpon>frmJocImagini.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOctombrie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOctombrie.Designer.cs">
+      <DependentUpon>FrmOctombrie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTest.Designer.cs">
+      <DependentUpon>frmTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="variabile.cs" />
+    <EmbeddedResource Include="frmBackground.resx">
+      <DependentUpon>frmBackground.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBibliografie.resx">
+      <DependentUpon>frmBibliografie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFebruarie.resx">
+      <DependentUpon>FrmFebruarie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGalerie.resx">
+      <DependentUpon>frmGalerie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmIulie.resx">
+      <DependentUpon>FrmIulie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmImaginiInstructiuni.resx">
+      <DependentUpon>frmImaginiInstructiuni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLectii.resx">
+      <DependentUpon>frmLectii.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLectiiPers.resx">
+      <DependentUpon>frmLectiiPers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJocImagini.resx">
+      <DependentUpon>frmJocImagini.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOctombrie.resx">
+      <DependentUpon>FrmOctombrie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTest.resx">
+      <DependentUpon>frmTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
